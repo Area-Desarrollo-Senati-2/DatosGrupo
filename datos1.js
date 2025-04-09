@@ -1,7 +1,7 @@
 
 const alumno = {
     nombre: "José Armando",
-    apellidos: "Vilacbana Manayay",
+    apellidos: "Vilcabana Manayay",
     edad: 20,
     ID: 1535774
 };
