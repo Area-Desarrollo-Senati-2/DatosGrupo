@@ -1,5 +1,5 @@
 const alumno3 = {
-    nombre: "Jhon",
+    nombre: "Jhon ",
     apellidos: "Briones Gil",
     edad: 20,
     ID: 1522182
